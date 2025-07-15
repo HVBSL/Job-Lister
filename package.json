@@ -8,6 +8,8 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "googleapis": "^132.0.0",
-    "nodemon": "^3.1.10"
+    "node-cron": "^4.2.1",
+    "nodemon": "^3.1.10",
+    "puppeteer": "^24.13.0"
   }
 }
